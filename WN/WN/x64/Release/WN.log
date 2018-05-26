@@ -1,0 +1,8 @@
+﻿  WN.cpp
+c:\users\administrator\desktop\pj2\pj2main\wn\wn\wn.cpp(33): warning C4101: “c”: 未引用的局部变量
+  正在生成代码
+  29 of 394 functions ( 7.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  WN.vcxproj -> C:\Users\Administrator\Desktop\pj2\pj2main\WN\x64\Release\WN.exe

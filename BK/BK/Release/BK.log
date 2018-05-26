@@ -1,0 +1,6 @@
+﻿  BK-based.cpp
+BK-based.cpp(28): warning C4101: “c”: 未引用的局部变量
+  正在生成代码
+  All 341 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  BK.vcxproj -> C:\Users\Administrator\Desktop\pj2\pj2main\BK\Release\BK.exe

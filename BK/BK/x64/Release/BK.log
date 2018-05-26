@@ -1,0 +1,10 @@
+﻿  BK-based.cpp
+c:\users\administrator\desktop\pj2\pj2main\bk\bk\BK.h(35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\pj2\pj2main\bk\bk\BK.h(57): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+BK-based.cpp(28): warning C4101: “c”: 未引用的局部变量
+  正在生成代码
+  7 of 341 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  BK.vcxproj -> C:\Users\Administrator\Desktop\pj2\pj2main\BK\x64\Release\BK.exe

@@ -1,0 +1,10 @@
+﻿  greedy1.cpp
+c:\users\administrator\desktop\pj2\pj2main\pj2main\bk.h(35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\pj2\pj2main\pj2main\bk.h(57): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\pj2\pj2main\pj2main\greedy1.cpp(34): warning C4101: “c”: 未引用的局部变量
+  正在生成代码
+  25 of 325 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  pj2main.vcxproj -> C:\Users\Administrator\Desktop\pj2\pj2main\x64\Release\pj2main.exe

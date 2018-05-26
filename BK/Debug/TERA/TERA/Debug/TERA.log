@@ -1,0 +1,5 @@
+﻿  mktg.cpp
+c:\users\administrator\desktop\pj2\pj2main\tera\tera\mktg.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\pj2\pj2main\tera\tera\mktg.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\pj2\pj2main\tera\tera\mktg.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+  TERA.vcxproj -> C:\Users\Administrator\Desktop\pj2\pj2main\TERA\Debug\TERA.exe

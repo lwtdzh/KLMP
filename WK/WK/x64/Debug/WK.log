@@ -1,0 +1,5 @@
+﻿  WK.cpp
+c:\users\administrator\desktop\pj2\pj2main\wk\wk\wk.cpp(35): warning C4101: “c”: 未引用的局部变量
+c:\users\administrator\desktop\pj2\pj2main\wk\wk\wk.cpp(35): warning C4101: “d”: 未引用的局部变量
+c:\users\administrator\desktop\pj2\pj2main\wk\wk\wk.cpp(262): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  WK.vcxproj -> C:\Users\Administrator\Desktop\pj2\pj2main\WK\x64\Debug\WK.exe
